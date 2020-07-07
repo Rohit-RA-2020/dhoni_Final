@@ -1,4 +1,4 @@
-# dhoni
+# Dhoni
 
 A new Flutter application on Dhoni
 
