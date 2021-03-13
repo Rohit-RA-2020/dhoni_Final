@@ -1,6 +1,4 @@
 # Dhoni
-
-A new Flutter application on Dhoni
 ![alt text](https://github.com/Rohit-RA-2020/dhoni_Final/blob/master/1.jpg)
 ![alt text](https://github.com/Rohit-RA-2020/dhoni_Final/blob/master/2.jpg)
 ![alt text](https://github.com/Rohit-RA-2020/dhoni_Final/blob/master/3.jpg)
